@@ -43,3 +43,16 @@ $ git push origin <branch_name>
 5. Создать соответствующий Pull Request  в основной репозиторий (github)
 6. Ждать результатов проверки и повторить действия 3 и 4, в случае замечаний, PR обновится автоматически.
 
+### Список тем
+
+1. Classes
+2. Inheritance, casts
+3. Function and operator overloading
+4. Virtual functions, overriding, abstract classes
+5. Memory: new/delete operators, smart pointers
+6. Template functions, specialization
+7. Template classes
+8. Exceptions
+9. STL containers, complexity
+10. STL algorithm, iterator, functor
+
